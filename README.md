@@ -6,7 +6,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=nipun-1234&color=brightgreen)](https://github.com/nipun-1234)
 
-### Software Engineering Undergraduate | Tech Enthusiast
+### Cloud Computing Undergraduate | Tech Enthusiast
 
 </div>
 
