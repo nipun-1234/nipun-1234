@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# Hi 👋, I'm Nipun!
+# Hi, I'm Nipun Sudusinghe!
 
 ### Always excited to learn, build, and collaborate!
 
