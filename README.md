@@ -25,8 +25,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://dev.to/YOUR_DEV_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+  
   </a>
 </p>
 
