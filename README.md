@@ -56,7 +56,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="40" width="40" />
-  <img src="https://raw.scale... github icon -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40" />
 </p>
@@ -66,5 +65,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nipun-1234&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="Nipun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nipun-1234&show_icons=true&theme=radical&hide_border=false" alt="Nipun's GitHub stats" />
 </p>
