@@ -65,5 +65,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nipun-1234&show_icons=true&theme=radical&hide_border=false" alt="Nipun's GitHub stats" />
+ 
 </p>
