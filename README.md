@@ -35,13 +35,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <!-- Replace YOUR_EMAIL@example.com with your actual email -->
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:nipunsudusinghe523@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -109,7 +107,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nipun-1234/nipun-1234/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nipun-1234/nipun-1234/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.github.com/nipun-1234/nipun-1234/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/nipun-1234/nipun-1234/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
