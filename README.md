@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Nipun%20Sudusinghe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Undergraduate%20%7C%20Cloud%20%26%20Technology%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2193B0&center=true&vCenter=true&width=700&lines=Always+excited+to+learn%2C+build%2C+and+collaborate!;Exploring+Cloud+Computing+and+Modern+Technology.;Building+smart+and+practical+software+solutions.;Cloud+%7C+AWS+%7C+Python+%7C+Java+%7C+Docker" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2193B0&center=true&vCenter=true&width=650&lines=Cloud+Computing+Undergraduate+at+SLTC;Cloud+%7C+AWS+%7C+DevOps+%7C+Python+%7C+Java;Building+smart+and+practical+software+solutions" alt="Typing SVG" />
+  </a>
+</p>
 
 <br/>
 
