@@ -1,0 +1,36 @@
+name: Generate Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # සෑම පැය 12කට වරක් ස්වයංක්‍රීයව update වේ
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: nipun-1234
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
