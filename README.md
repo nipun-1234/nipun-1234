@@ -43,7 +43,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="40" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" height="40" width="40" />
+  <img src="https://raw.githubusercontent.1/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40" width="40" />
