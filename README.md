@@ -3,8 +3,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2193B0&center=true&vCenter=true&width=600&lines=Always+excited+to+learn%2C+build%2C+and+collaborate!;Turning+complex+logic+into+clean+code.;Cloud+%7C+Java+%7C+Python+%7C+Full+Stack" alt="Typing SVG" />
 </a>
-[![Profile views](https://komarev.com/ghpvc/?username=nipun-1234&color=2193b0&style=flat-square&label=Profile+Views)](https://github.com/nipun-1234)
-[![GitHub followers](https://img.shields.io/github/followers/nipun-1234?label=Followers&style=flat-square&color=2193b0)](https://github.com/nipun-1234?tab=followers)
+
  
 </div>
 ---
