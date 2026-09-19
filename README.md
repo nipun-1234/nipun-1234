@@ -1,37 +1,45 @@
-﻿<div align="center">
+<div align="center">
 
-# Hi, I'm Nipun Sudusinghe!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Nipun%20Sudusinghe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Undergraduate%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-### Always excited to learn, build, and collaborate!
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2193B0&center=true&vCenter=true&width=600&lines=Always+excited+to+learn%2C+build%2C+and+collaborate!;Turning+complex+logic+into+clean+code.;Cloud+%7C+Java+%7C+Python+%7C+Full+Stack" alt="Typing SVG" />
+</a>
 
-[![Profile views](https://komarev.com/ghpvc/?username=nipun-1234&color=brightgreen)](https://github.com/nipun-1234)
-
-### Cloud Computing Undergraduate | Tech Enthusiast
+[![Profile views](https://komarev.com/ghpvc/?username=nipun-1234&color=2193b0&style=flat-square&label=Profile+Views)](https://github.com/nipun-1234)
+[![GitHub followers](https://img.shields.io/github/followers/nipun-1234?label=Followers&style=flat-square&color=2193b0)](https://github.com/nipun-1234?tab=followers)
 
 </div>
 
 ---
 
-- 🔭 I’m currently working on developing smart web applications and data systems.
-- 🌱 I’m currently learning advanced software architecture and data warehousing.
-- 💬 Ask me about Java, Python, and Software Development.
-- ⚡ Fun fact: I enjoy turning complex logic into clean code.
+### 👋 About Me
+
+- 🔭 I'm currently working on developing **smart web applications and data systems**
+- 🌱 I'm currently learning **advanced software architecture and data warehousing**
+- 💬 Ask me about **Java, Python, and Software Development**
+- ⚡ Fun fact: I enjoy turning complex logic into clean code
+- 📫 Let's connect and build something great together!
 
 ---
 
-### Connect with me:
+### 🔗 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/nipun-1234" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="40" width="40" />
@@ -65,5 +73,32 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- 
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nipun-1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun-1234&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipun-1234&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nipun-1234&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nipun-1234&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=100&section=footer" width="100%"/>
+
+**Thanks for stopping by! ⭐ Feel free to explore my repositories.**
+
+</div>
