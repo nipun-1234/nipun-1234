@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Nipun%20Sudusinghe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Undergraduate%20%7C%20Cloud%20%26%20Technology%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=200&section=header&text=Nipun%20Sudusinghe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Undergraduate%20%7C%20Cloud%20%26%20Technology%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -144,7 +144,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=100&section=footer" width="100%"/>
 
 ### ⭐ Thanks for visiting my profile!
 
