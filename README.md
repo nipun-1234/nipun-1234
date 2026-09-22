@@ -125,10 +125,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 System Status & Terminal
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nipun-1234&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00FF66&center=false&vCenter=true&width=500&lines=NIPUN_OS+v2.6.4+initialized...;STATUS:+All+Cloud+Core+Services+Online;NODE:+COLOMBO+%2F+LK+%5BACTIVE_CONNECTION%5D;READY:+Executing+Next-Gen+Cloud+Solutions..." alt="Terminal Typing" />
 </p>
 
 ---
