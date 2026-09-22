@@ -128,7 +128,7 @@
 ## 🐧 Linux / Cloud Terminal Status
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FF66&center=false&vCenter=true&width=550&lines=ssh+nipun@sltc-cloud-vm;systemctl+status+cloud-services.service;STATUS:+All+Core+Daemons+Running+Smoothly;DEPLOYING:+AWS+Infrastructure+%26+DevOps+Tools..." alt="Linux Terminal Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FF66&center=false&vCenter=true&width=550&lines=ssh+nipun@sudusinghe-cloud-vm;systemctl+status+cloud-services.service;STATUS:+All+Core+Daemons+Running+Smoothly;DEPLOYING:+AWS+Infrastructure+%26+DevOps+Tools..." alt="Linux Terminal Animation" />
 </p>
 
 ---
