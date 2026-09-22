@@ -125,10 +125,10 @@
 
 ---
 
-## 💻 System Status & Terminal
+## 🐧 Linux / Cloud Terminal Status
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00FF66&center=false&vCenter=true&width=500&lines=NIPUN_OS+v2.6.4+initialized...;STATUS:+All+Cloud+Core+Services+Online;NODE:+COLOMBO+%2F+LK+%5BACTIVE_CONNECTION%5D;READY:+Executing+Next-Gen+Cloud+Solutions..." alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FF66&center=false&vCenter=true&width=550&lines=ssh+nipun@sltc-cloud-vm;systemctl+status+cloud-services.service;STATUS:+All+Core+Daemons+Running+Smoothly;DEPLOYING:+AWS+Infrastructure+%26+DevOps+Tools..." alt="Linux Terminal Animation" />
 </p>
 
 ---
