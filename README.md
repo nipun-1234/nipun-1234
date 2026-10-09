@@ -1,102 +1,109 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Nipun%20Sudusinghe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Computing%20Undergraduate%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2193b0,100:6dd5ed&height=230&section=header&text=Nipun%20Sudusinghe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20Computing%20Undergraduate%20%7C%20Aspiring%20Cloud%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2193B0&center=true&vCenter=true&width=600&lines=Always+excited+to+learn%2C+build%2C+and+collaborate!;Turning+complex+logic+into+clean+code.;Cloud+%7C+Java+%7C+Python+%7C+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2193B0&center=true&vCenter=true&width=700&height=45&lines=Building+practical%2C+user-focused+software;Exploring+AWS%2C+Docker+%26+Kubernetes;Turning+complex+problems+into+clean+code;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
- 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nipun-1234&label=Profile%20Views&color=2193b0&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/nipun-1234?label=Followers&style=for-the-badge&color=2193b0&logo=github" alt="Followers"/>
+
 </div>
----
 
-## 👋 About Me
+<br/>
 
-- 🎓 I'm a **Cloud Computing Undergraduate** at **Sri Lanka Technological Campus (SLTC)**
-- ☁️ I'm interested in **Cloud Computing, AWS, DevOps, and Software Development**
-- 🔭 I'm currently working on **smart web applications and cloud-based systems**
-- 🌱 I'm currently learning **AWS, Docker, Kubernetes, Software Architecture, and Data Warehousing**
-- 💻 I enjoy building **practical and user-focused software solutions**
-- 🎯 My goal is to grow as a **Cloud Engineer** and continuously improve my technical skills
-- ⚡ Fun fact: I enjoy turning complex problems into simple and practical solutions
+## 👨‍💻 About Me
 
----
+I'm a **Cloud Computing undergraduate** at **Sri Lanka Technological Campus (SLTC)**, passionate about building reliable, scalable and user-focused software.
 
-## 🔗 Connect with Me
+| | |
+|---|---|
+| 🎓 **Education** | BSc in Cloud Computing, SLTC |
+| 🔭 **Currently building** | Smart web applications and cloud-based systems |
+| 🌱 **Currently learning** | AWS, Docker, Kubernetes, Software Architecture, Data Warehousing |
+| 🎯 **Goal** | Grow into a professional **Cloud Engineer** |
+| ⚡ **Philosophy** | Turn complex problems into simple, practical solutions |
 
-<p align="left">
+<br/>
 
-  <a href="https://github.com/nipun-1234" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+## 🛠️ Tech Stack
 
-  <a href="https://www.linkedin.com/in/nipun-sudusinghe-434561411/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:nipunsudusinghe523@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-</p>
-
-
----
-
-## 🛠️ Languages & Tools
+<div align="center">
 
 ### ☁️ Cloud & DevOps
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&perline=6" alt="Cloud & DevOps"/>
 
 ### 💻 Programming & Web Development
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,html,css&perline=8" alt="Programming"/>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-</p>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=3" alt="Databases"/>
 
-### 🗄️ Databases & Data
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github&perline=3" alt="Tools"/>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
-</p>
+</div>
 
-### 🔧 Development Tools
+<br/>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-</p>
+## 🚀 Featured Projects
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Smart Ride</h3>
+      <p>University student ride-sharing platform focused on affordable and safer transportation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ AI Travel Safety Platform</h3>
+      <p>Identifies safer routes using location data, risk analysis and machine learning concepts.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ E-Mobility Management System</h3>
+      <p>Web platform for managing electric vehicles, vehicle information and admin operations.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌸 perfume_LK</h3>
+      <p>E-commerce platform for browsing and purchasing perfumes with a sleek, user-friendly UI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛒 SmartCart</h3>
+      <p>Mini online shopping system with cart functionality, responsive UI and local storage.</p>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Projects
+> 📂 Explore all my work on [**GitHub Repositories**](https://github.com/nipun-1234?tab=repositories)
 
-### ☁️ Cloud & Software Projects
+<br/>
 
-- 🚗 **Smart Ride** – A university student ride-sharing platform designed to provide affordable and safer transportation.
-- 🛒 **SmartCart** – A mini online shopping system with cart functionality, responsive UI, and local storage.
-- 🛡️ **AI-Based Travel Safety & Threat Intelligence Platform** – A system designed to identify safer routes using location data, risk analysis, and machine learning concepts.
-- ⚡ **E-Mobility Management System** – A web-based platform for managing electric vehicles, vehicle information, and administrative operations.
-- 🌸 **perfume_LK** – An e-commerce web platform dedicated to browsing, showcasing, and purchasing a variety of perfumes with a sleek and user-friendly interface.
----
+## 📊 GitHub Analytics
 
-## 🐍 Contribution Snake Game
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nipun-1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun-1234&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nipun-1234&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nipun-1234&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -106,38 +113,35 @@
   </picture>
 </p>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## 🐧 Terminal Status
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nipun-1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun-1234&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=ssh+nipun@sudusinghe-cloud-vm;systemctl+status+cloud-services.service;STATUS:+All+Core+Daemons+Running+Smoothly;DEPLOYING:+AWS+Infrastructure+%26+DevOps+Tools..." alt="Linux Terminal Animation" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nipun-1234&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<br/>
 
-<p align="center">
-  </p>
-
----
-
-## 🐧 Linux / Cloud Terminal Status
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FF66&center=false&vCenter=true&width=550&lines=ssh+nipun@sudusinghe-cloud-vm;systemctl+status+cloud-services.service;STATUS:+All+Core+Daemons+Running+Smoothly;DEPLOYING:+AWS+Infrastructure+%26+DevOps+Tools..." alt="Linux Terminal Animation" />
-</p>
-
----
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=100&section=footer" width="100%"/>
+<a href="https://github.com/nipun-1234" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/nipun-sudusinghe-434561411/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:nipunsudusinghe523@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
 
 ### ⭐ Thanks for visiting my profile!
+**Feel free to explore my repositories and reach out. I'm always open to collaboration.**
 
-**Feel free to explore my repositories and connect with me.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2193b0,100:6dd5ed&height=110&section=footer" width="100%"/>
 
 </div>
