@@ -88,6 +88,10 @@ I'm a **Cloud Computing undergraduate** at **Sri Lanka Technological Campus (SLT
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nipun-1234&theme=github_dark" alt="Profile Details" width="95%"/>
+
+<br/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nipun-1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun-1234&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 
