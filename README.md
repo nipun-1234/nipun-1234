@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://hits.sh/github.com/nipun-1234.svg?style=flat-square&label=Views&color=2193b0&labelColor=0f2027" alt="Profile Views"/> 
+<img src="https://komarev.com/ghpvc/?username=nipun-1234&label=Profile%20Views&color=2193b0&style=for-the-badge" alt="Profile Views"/> 
 <img src="https://img.shields.io/github/followers/nipun-1234?label=Followers&style=for-the-badge&color=2193b0&logo=github" alt="Followers"/>
 
 </div>
